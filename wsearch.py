@@ -10,7 +10,7 @@ Google translate(4) Shodan(5)
 """)
 print("")
 # By Suliman
-web = input("Please Enter What you want to search : ")
+web = input("Please Enter What is your website want to search : ")
 print("-" * 60)
 if web =="1" :
     search = input("Please Enter What you want to search : ")
